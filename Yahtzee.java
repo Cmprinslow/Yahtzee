@@ -148,8 +148,6 @@ public class Yahtzee extends Player{
 	}
 
 	public static void main(String[] args) {
-		Player player1 = new Player();
-		Player player2 = new Player();
 		Die die1 = new Die();
 		Die die2 = new Die();
 		Die die3 = new Die();
